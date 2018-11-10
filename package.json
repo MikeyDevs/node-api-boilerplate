@@ -1,0 +1,26 @@
+{
+  "name": "api-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeyDevs/node-api-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeyDevs/node-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/MikeyDevs/node-api-boilerplate#readme"
+}
